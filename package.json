@@ -1,0 +1,16 @@
+{
+  "name": "marcenaria-site",
+  "version": "1.0.0",
+  "description": "Projeto de um site de marcenaria, Usando HTML5 CSS3, Javascript e React.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Ruan Oliveira",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

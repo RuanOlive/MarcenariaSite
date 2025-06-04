@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# MacOS system files
+*.DS_Store
+
+# Linux swap files
+*.swp
+
+# Coverage reports
+coverage/
+
+# Optional: lockfiles (ajuste conforme o gerenciador de pacotes que usar)
+package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
